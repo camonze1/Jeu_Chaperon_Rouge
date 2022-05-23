@@ -1,0 +1,57 @@
+Journal de bord projet tuteuré :
+ 
+10 mai :
+	Tout le monde :
+		- Appréhension du sujet
+		- Diagramme de classe 
+		- Renseignements sur drag and drop
+
+16 mai :
+	Felix, Camille, Jules :
+		- Programmation des différentes classes, constructeurs et méthodes de base
+		- Création des différents grid 
+		- Difficultés rencontrées sur git pour pull le projet 
+	Martin :
+		- Commencement du drag and drop
+	Nourredine :
+		- Commencement de la classe Home, boutons jouer, levels et quitter.	
+
+17 mai :
+	Felix, Camille, Jules:
+		- Programmation des classes cells, mainVue et des méthodes associées 
+		- Résolution des problèmes pour pull le projet 
+		- Programmation des différents pion du jeu (loup, maison, arbres, chaperon)
+	Jules
+		- Lecture d’un fichier texte pour afficher la configuration d’un niveau 
+	Nourredine :
+		- Aboutissement de la classe Home
+
+18 mai :
+	Felix, Camille :
+		- Élaboration d'un schéma pour comprendre le système de rotation des pièces
+		- Programmation des rotations des chemins
+		- Programmation de MainVue afin d'afficher les differents chemins sur le jeu
+	Jules : 
+		- Programmation de la lecture et affichage des 5 niveaux depuis le fichier texte
+	Nourredine :
+		- Classe Home
+	Martin :
+		- Programmation du drag and drop
+	
+19 mai :
+	Nourredine : 
+		- Migration de la classe Home vers MainVue
+		- Lecture des niveaux depuis le fichier texte
+		- Configuration de l'interface du menu des différents niveaux
+		- Refactoring pour une meilleure lisibilitée du code
+	Camille :
+		- Ajout des images
+		- Programmation de MainVue pour les paths pour la vue final
+		- Diagramme de classe
+	Felix, Jules :
+		- Recommencement du drag and drop du début
+		- Résolution des problèmes rencontrés sur ce module
+	Jules, Martin, Felix :
+		- Rotation des paths final
+		- Programmation du drag and drop final
+	
